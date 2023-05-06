@@ -1,0 +1,12 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+      },
+    "editor.formatOnSave": true,
+    "files.autoSave": "onFocusChange",
+    "editor.tabSize": 2,
+    "cSpell.words": [
+        "dotenv",
+        "openai"
+    ]
+}

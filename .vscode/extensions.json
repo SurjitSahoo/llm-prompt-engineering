@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "ms-python.black-formatter",
+    "streetsidesoftware.code-spell-checker",
+    "ms-python.isort",
+    "pkief.material-icon-theme",
+    "donjayamanne.python-environment-manager",
+    "njpwerner.autodocstring",
+    "visualstudioexptteam.vscodeintellicode"
+  ]
+}
