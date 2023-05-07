@@ -1,12 +1,10 @@
 {
-    "[python]": {
-        "editor.defaultFormatter": "ms-python.black-formatter"
-      },
-    "editor.formatOnSave": true,
-    "files.autoSave": "onFocusChange",
-    "editor.tabSize": 2,
-    "cSpell.words": [
-        "dotenv",
-        "openai"
-    ]
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "editor.formatOnSave": true,
+  "files.autoSave": "onFocusChange",
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "cSpell.words": ["dotenv", "openai"]
 }
