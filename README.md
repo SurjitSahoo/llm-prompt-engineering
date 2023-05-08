@@ -17,7 +17,9 @@ You can check and read the techniques with prompt examples, and try out the prom
 
 ## How to run in local computer?
 
-Examples are written in Jupyter Notebooks, you can run them with python3-jupyter-notebooks. If you are running on Mac or Linux or any unix terminal, then just run the `start.sh` file to run the program. If you are a windows user, use the following commands to run the program.
+Examples are written in Jupyter Notebooks, you can run them with python3-jupyter-notebooks. If you are running on Mac or Linux or any unix terminal, then just run the `start.sh` file to run the program. 
+
+If you are a windows user, use the following commands to run the program.
 
 ### Pre-requisites
 
