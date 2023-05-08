@@ -7,7 +7,7 @@ Large Language Models (LLMs) such as GPT-3 have revolutionized the field of natu
 
 However, using LLMs in production applications can be challenging, especially when it comes to writing prompts that elicit the desired response. The prompts have to be very effective so that we can deploy them to production.
 
-One of the biggest challenges of using LLMs in production applications is the potential for incorrect or misleading information. While playing with ChatBots like [ChatGPT](https://www.python.org) online or [Microsoft Bing](https://bing.com/chat) can be fun, we cannot afford to have misinformation in our production applications.
+One of the biggest challenges of using LLMs in production applications is the potential for incorrect or misleading information. While playing with ChatBots like [ChatGPT](https://www.python.org) or [Microsoft Bing](https://bing.com/chat) can be fun, we cannot afford to have misinformation in our production applications.
 
 This repository provides tips for writing effective prompts addressing the above issues.
 
