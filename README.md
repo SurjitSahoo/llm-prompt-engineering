@@ -14,6 +14,7 @@ Examples are written in Jupyter Notebooks, you can run them with python3-jupyter
 
 - [python 3](https://www.python.org)
 - pip3
+- OpenAI API Key
 
 ```sh
 # Step 1: Install the dependencies:
